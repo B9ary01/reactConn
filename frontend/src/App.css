@@ -1,0 +1,31 @@
+
+.head ,.footer{
+    background-color: #0141203c;
+    font-family: poppins, sans-serif;
+    padding: 1px 1px;
+  }
+  
+  .home-image{
+    width: 30%;
+    max-width: 500px;
+    height: 20%;
+  }
+  .text-green,.text-green text-bold{
+    color: green;
+  }
+  
+   .col-md-3  img{
+      align-items: center;
+      align-self: center;
+      text-align: center;
+      width: 100%;
+      max-width: 300%;
+  }
+  
+  .subscribe{
+    font-family: sans-serif;
+    padding: 50px 0px;
+    text-align: center;
+  }
+
+  
