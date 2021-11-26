@@ -1,1 +1,1 @@
- Login, Register 
+Run using npm install and npm start
