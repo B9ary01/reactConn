@@ -1,4 +1,4 @@
-Run using npm install and npm start
+Run using npm install and npm start for frontend and backend
 
 
 Links:
